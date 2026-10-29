@@ -1,0 +1,54 @@
+{
+  "concept": "B Immersive Landscape",
+  "status": "visual review only",
+  "logo_source": "client-supplied original",
+  "brand_palette": [
+    "#005227",
+    "#006F38",
+    "#81F7B9",
+    "#3B3B3B"
+  ],
+  "font": "Figtree, Google Fonts CDN linked in preview",
+  "client_approved_images": [
+    {
+      "file": "assets/images/pg-walk-side-yard.webp",
+      "bytes": 249776,
+      "sha256": "59e10d0075c13c5c3479b03a9dea90f4a652abee665160753e9a0a834a40e6ba",
+      "dimensions_px": [
+        1280,
+        720
+      ],
+      "rights": "AI illustration approved by user, not real ProGreen project"
+    },
+    {
+      "file": "assets/images/pg-walk-backyard-natural-stone.webp",
+      "bytes": 319676,
+      "sha256": "9d7732bd0cb4756d13ec4a11d551ecccd65c17c7ada4330e21f5f788028b0f22",
+      "dimensions_px": [
+        1280,
+        720
+      ],
+      "rights": "AI illustration approved by user, not real ProGreen project"
+    },
+    {
+      "file": "assets/images/pg-walk-paver-border-detail.webp",
+      "bytes": 225242,
+      "sha256": "f0fde7e40e650e3d73b76aeb8d882a756db2f16844a51ec7e22158ff509e24dd",
+      "dimensions_px": [
+        1280,
+        720
+      ],
+      "rights": "AI illustration approved by user, not real ProGreen project"
+    },
+    {
+      "file": "assets/images/pg-walk-hero-front-entry.webp",
+      "bytes": 454166,
+      "sha256": "8067b02afe0719493ed8e6cd661325f805060061d4071d8b25106eb2804e137d",
+      "dimensions_px": [
+        1672,
+        941
+      ],
+      "rights": "AI illustration approved by user, not real ProGreen project"
+    }
+  ]
+}
